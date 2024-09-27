@@ -1,3 +1,3 @@
-#Juego de adivinanza
+Juego de adivinanza
 
 #Desarrolado en Python 
